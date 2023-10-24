@@ -15,5 +15,19 @@
     .col, .col-left, .col-right{
         min-width: 100%;
     }
+
+    .lessons{
+        padding-bottom: 3rem;
+    }
+
+    .steps {
+        margin: 0;
+    }
+
+    .why-us{
+        margin-bottom: 0;
+        padding: 3rem 0;
+        background-color: black;
+    }   
     
 }
