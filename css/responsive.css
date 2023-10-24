@@ -1,8 +1,18 @@
+
+/* Tablet responsive */
+
+
 @media screen and (max-width: 768px) {
     .container{
         max-width: 768px;
     }
 }
+
+
+
+
+/* Mobile responsive */
+
 
 @media screen and (max-width: 480px) {
     .container{
@@ -30,4 +40,16 @@
         background-color: black;
     }   
     
+}
+
+
+
+
+/* BONUS fix rigidity  */
+
+
+@media screen and (max-width: 1160px) {
+    .container{
+        max-width: 100vw;
+    }
 }
